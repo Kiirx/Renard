@@ -1,6 +1,6 @@
-# 🦋 Papillon — Votre vie scolaire
+# 🦊 Renard — Votre vie scolaire
 
-Votre emploi du temps 📅, votre agenda 📓, vos notes 📝, vos news 📰 et bien plus encore en un clin d’œil grâce à l'application Papillon.
+Votre emploi du temps 📅, votre agenda 📓, vos notes 📝, vos news 📰 et bien plus encore en un clin d’œil grâce à l'application Renard.
 
 **📚 [Voir la documentation](https://docs.getpapillon.xyz/)**
 
@@ -45,7 +45,7 @@ Voici un aperçu de ce que nous avons accompli jusqu'à présent et de ce qui re
 
 ## 📖 À propos du projet
 
-Papillon est une application mobile qui vise à simplifier la vie scolaire des étudiants en France.
+Renard est une application mobile qui vise à simplifier la vie scolaire des étudiants en France.
 
 ## 🛠 Développé avec
 
@@ -66,7 +66,7 @@ Papillon est une application mobile qui vise à simplifier la vie scolaire des �
 1. Clonez le repo
 
 ```sh
-git clone https://github.com/PapillonApp/Papillon.git
+git clone https://github.com/RenardApp/Renard.git
 ```
 
 2. Installez les packages NPM
@@ -87,7 +87,7 @@ Pour commencer :
 
 1. Modifiez le fichier `app.json` afin de modifier le nom de l'application ainsi que son package, pour éviter de remplacer la vraie appli.
 
-Ligne 3, variable `name`: remplacer par le nom de votre choix (exemple "Papillon Dev")
+Ligne 3, variable `name`: remplacer par le nom de votre choix (exemple "Renard Dev")
 
 Ligne 46, variable `package`: remplacer par `plus.pronote.app.dev`. Ne pas changer cette variable entraînera une erreur à l'installation et un remplacement de l'appli officielle.
 
